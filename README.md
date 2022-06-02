@@ -2,7 +2,8 @@
 
 ## 1. Para cada uma das variáveis da planilha TrabalhoTP.xls
  
-## 2. 
+## 2 - Leia os itens abaixo:
+
    ### 2.1 - Construa uma tabela de frequências com 7 classes
    ### 2.2 Construa uma representação gráfica conveniente
    
