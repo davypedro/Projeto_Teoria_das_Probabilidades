@@ -17,6 +17,5 @@
 ## classifique as variáveis quanto a sua simetria
 
 ## 7. Calcule coeficiente percentílico de curtose ou o coeficiente de curtose de
-## Fisher e classifique as variáveis como mesocúrtica, platicúrtica ou
-## leptocúrtica.
+## Fisher e classifique as variáveis como mesocúrtica, platicúrtica ou leptocúrtica.
 
