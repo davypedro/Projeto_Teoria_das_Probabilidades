@@ -1,9 +1,9 @@
 # Objetivos do trabalho:
 
 1. Para cada uma das variáveis da planilha TrabalhoTP.xls,
-2. • Construa uma tabela de frequências com 7 classes,
-   • Construa uma representação gráfica conveniente,
-
+2. 
+• Construa uma tabela de frequências com 7 classes,
+• Construa uma representação gráfica conveniente,
 3. Calcule a média a mediana e moda,
 4. Calcule a variância e o desvio padrão,
 5. Construa um Boxplot,
