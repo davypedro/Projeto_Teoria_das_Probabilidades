@@ -1,5 +1,3 @@
-# Objetivos do projeto:
-
 # Project objectives:
 
 ## 1. For each of the variables in the WorkTP.xls worksheet
