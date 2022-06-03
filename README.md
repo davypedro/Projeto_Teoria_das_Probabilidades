@@ -1,19 +1,21 @@
 # Objetivos do projeto:
 
-## 1. Para cada uma das variáveis da planilha TrabalhoTP.xls
- 
-## 2 - Leia os itens abaixo:
+# Project objectives:
 
-   ### 2.1 - Construa uma tabela de frequências com 7 classes
-   ### 2.2 Construa uma representação gráfica conveniente
+## 1. For each of the variables in the WorkTP.xls worksheet
+ 
+## 2 - Read the items below:
+
+### 2.1 - Build a frequency table with 7 classes
+### 2.2 Build a convenient graphical representation
    
-## 3. Calcule a média a mediana e moda
+## 3. Calculate the mean, median and mode
  
-## 4. Calcule a variância e o desvio padrão
+## 4. Calculate the variance and standard deviation
 
-## 5. Construa um Boxplot
+## 5. Build a Boxplot
 
-## 6. Calcule os coeficientes de Assimetria de Pearson ou de Pearson e classifique as variáveis quanto a sua simetria
+## 6. Calculate Pearson's or Pearson's Asymmetry coefficients and classify the variables according to their symmetry
 
-## 7. Calcule coeficiente percentílico de curtose ou o coeficiente de curtose de Fisher e classifique as variáveis como mesocúrtica, platicúrtica ou leptocúrtica.
+## 7. Calculate percentile kurtosis coefficient or Fisher's kurtosis coefficient and classify the variables as mesokurtic, platykurtic, or leptokurtic.
 
